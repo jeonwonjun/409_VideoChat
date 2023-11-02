@@ -1,0 +1,5 @@
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\ServerProject\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\ServerProject\obj\Debug\ServerProject.Server.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\ServerProject\obj\Debug\ServerProject.Properties.Resources.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\ServerProject\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\ServerProject\obj\Debug\Server.csproj.CoreCompileInputs.cache

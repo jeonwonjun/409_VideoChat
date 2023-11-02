@@ -1,0 +1,112 @@
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form1.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form3.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.MainForm.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.Properties.Resources.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csproj.GenerateResource.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.MemberForm.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\NewMeet.Form2.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Server.exe.config
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Server.exe.config
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form1.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\NewMeet.Form2.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form3.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.MainForm.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.MemberForm.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.Properties.Resources.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csproj.GenerateResource.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\OpenCvSharp.Extensions.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\OpenCvSharp.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\OpenCvSharp.WpfExtensions.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\opencv_videoio_ffmpeg453_64.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\opencv_videoio_ffmpeg453.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\OpenCvSharp.Extensions.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\OpenCvSharp.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\OpenCvSharp.WpfExtensions.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\opencv_videoio_ffmpeg453_64.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\opencv_videoio_ffmpeg453.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form1.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\NewMeet.Form2.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form3.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.MainForm.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.MemberForm.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.Properties.Resources.resources
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csproj.GenerateResource.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\NewMeet.Form2.resources
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form3.resources
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.MainForm.resources
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.MemberForm.resources
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.Properties.Resources.resources
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\User\Desktop\전원준(대)\409 LAB\409 프로젝트.원준\Client\WindowsFormsApp1\obj\Debug\netcoreapp3.1\GUI.pdb

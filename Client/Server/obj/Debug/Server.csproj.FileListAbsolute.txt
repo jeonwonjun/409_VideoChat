@@ -1,0 +1,14 @@
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\Server\bin\Debug\Server.exe.config
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\Server\bin\Debug\Server.exe
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\Server\bin\Debug\Server.pdb
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\Server\obj\Debug\Server.exe
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\WindowsFormsApp1\Server\obj\Debug\Server.pdb
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\Server\bin\Debug\Server.exe.config
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\Server\bin\Debug\Server.exe
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\Server\bin\Debug\Server.pdb
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\Server\obj\Debug\Server.exe
+C:\Users\전원준\Desktop\전원준(대)\409 LAB\Client\Server\obj\Debug\Server.pdb
